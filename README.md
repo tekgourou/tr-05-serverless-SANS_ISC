@@ -130,7 +130,7 @@ old `URL` forever.
 
 ## Step 3: Getting access to SANS Storm Center API
 
-Sans Storm Center API DOES NOT required any special API key.
+SANS Storm Center API DOES NOT required any special API key.
 
 Documentation is available [here](https://isc.sans.edu/api/)
 
