@@ -15,7 +15,7 @@ Use cases :
   - Track SANS Internet Storm Center Top attacker IP
   - Track SANS Internet Storm Center Top destination port
   - Follow SANS Internet Storm Center daily reports
-  - Get more information on a specific Port or IP on Sans Internet Storm Center
+  - Get more information on a specific Port or IP on SANS Internet Storm Center
 
 For any questions or comments/bugs please reach out to me at aargeris@cisco.com
 
