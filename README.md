@@ -1,4 +1,4 @@
-# SANS Internet Storm Center module in Cisco SecureX module
+# SANS Internet Storm Center module in Cisco SecureX
 
 Create SANS Internet Storm Center module in Cisco SecureX.
 
