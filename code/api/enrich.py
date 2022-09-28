@@ -40,7 +40,7 @@ def refer_observables():
     observables = group_observables(relay_input)
     data = []
     if not observables:
-        return jsonify_data({})
+        return ({})
     observables = build_input_api(observables)
     for observable in observables:
         o_value = observable['value']
