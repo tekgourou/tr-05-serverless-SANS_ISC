@@ -8,7 +8,7 @@ def get_infocon():
     payload = {}
     headers = {}
     response = requests.request("GET", url, headers=headers, data=payload)
-    threat_level = re.search('<b>(.*)</b>', response.text).group(1).upper()
+    threat_level = re.search('<strong>(.*)</strong>', response.text).group(1).upper()
     try :
         diary_name = re.search(';(.*)</a>', response.text).group(1)
     except:
